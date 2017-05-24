@@ -1,5 +1,22 @@
 For relevant books (or chapters), journal and other articles, blog and other posts and other content accessible under the terms of Creative Commons or other compatible licenses. 
 
+# Blockchain Demo
+
+Thanks to [Anders Brownworth](https://github.com/anders94) for creating this [open source demo](https://github.com/anders94/blockchain-demo) and supporting reuse by CIVICS.com as a law+technology teaching tool.
+
+## What is a "[Hash](https://anders.com/blockchain/hash.html)"?
+## What is a "[Block](https://anders.com/blockchain/block.html)"?
+## What is a "[Blockchain](https://anders.com/blockchain/blockchain.html)"?
+## What does "[Distributed](https://anders.com/blockchain/distributed.html)" mean?
+## What are "[Tokens](https://anders.com/blockchain/tokens.html)"?
+## What is "[Coinbase](https://anders.com/blockchain/coinbase.html)"?
+
+# Relevant Links
+
+## ABA Digital Signature Guidelines: [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjCn4G43YjUAhWI24MKHUrkBMMQFggmMAA&url=http%3A%2F%2Fapps.americanbar.org%2Fdch%2Fthedl.cfm%3Ffilename%3D%2FST230002%2Fotherlinks_files%2Fdsg.pdf&usg=AFQjCNEADZ1-y4H-hDwiWmoBTE0VyqrBWQ&sig2=STMdXIAbTBy1XKvod4bZQg](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjCn4G43YjUAhWI24MKHUrkBMMQFggmMAA&url=http%3A%2F%2Fapps.americanbar.org%2Fdch%2Fthedl.cfm%3Ffilename%3D%2FST230002%2Fotherlinks_files%2Fdsg.pdf&usg=AFQjCNEADZ1-y4H-hDwiWmoBTE0VyqrBWQ&sig2=STMdXIAbTBy1XKvod4bZQg)
+
+# Parking Lot
+
 [addresses - How to encrypt a message with the public-key of an Ethereum address - Ethereum Stack Exchange](http://ethereum.stackexchange.com/questions/3092/how-to-encrypt-a-message-with-the-public-key-of-an-ethereum-address)
 
 [mist - how to sign with the Ethereum private key and derive the the r, v, s it needs for verification - Ethereum Stack Exchange](http://ethereum.stackexchange.com/questions/3792/how-to-sign-with-the-ethereum-private-key-and-derive-the-the-r-v-s-it-needs-fo?noredirect=1&lq=1)
