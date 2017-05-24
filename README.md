@@ -19,9 +19,7 @@ Thanks to [Anders Brownworth](https://github.com/anders94) for creating this [op
 
 **This distributed, decentralized network bends tranditional expectations and models of command and control**
 
-* [Who Controls the Blockchain?](https://hbr.org/2017/04/who-controls-the-blockchain)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2fJ4DXIv7I" frameborder="0" allowfullscreen></iframe>
+* [Who Controls the Blockchain?](https://hbr.org/2017/04/who-controls-the-blockchain) and [YouTube video](https://www.youtube.com/watch?v=x2fJ4DXIv7I)
 
 
 # Legislation 
