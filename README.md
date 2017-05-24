@@ -1,8 +1,10 @@
 # Blockchain in Brief
 
-## See the Blockchain Briefing Site at: [CIVICS.GitHub.io/BlockchainBrief](https://civics.github.io/BlockchainBrief)
-
 **High Level Links about Blockchain Technology - Especially for Legal Professionals**
+
+## Blockchain Briefing Site
+* GitHub Pages Format at [CIVICS.GitHub.io/BlockchainBrief](https://civics.github.io/BlockchainBrief)
+* Easy to Read Medium.com Format at [ComputationaLaw.org](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c)
 
 ## Blockchain Working Demo 
 
