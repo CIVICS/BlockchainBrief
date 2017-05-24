@@ -15,18 +15,30 @@ Thanks to [Anders Brownworth](https://github.com/anders94) for creating this [op
 
 # Relevant Links
 
-## Ownership and Control
 
-**This distributed, decentralized network bends tranditional expectations and models of command and control**
+**Popular media breaking it down in a way relevant to lawyers and other legal professionals:**
 
 * [Who Controls the Blockchain?](https://hbr.org/2017/04/who-controls-the-blockchain) and [YouTube video](https://www.youtube.com/watch?v=x2fJ4DXIv7I)
+* [Lawyers Get Ready, There’s a Blockchain Coming](http://www.lawpracticetoday.org/article/lawyers-blockchain)
+* [The Two Topics in Law and Blockchain](http://www.coindesk.com/the-two-topics-in-law-blockchain)
 
 
-# Legislation 
+# Blockchain Legislation 
 
-**Overarching Context of Digital Signatures, Contracts and Transactions**
+## Federal Legislative Definition
 
-## International Model Law
+* A collaboration between law.MIT.edu and the US House on developing [legislative definitions of "blockchain" and "distributed ledger](http://web.mit.edu/blockchain) technologies and systems
+
+
+## State Legislation
+
+* Nevada (SB 398): establishes various provisions relating to the use of blockchain technology. ([Link to bill](http://digitalchamber.us8.list-manage2.com/track/click?u=a87f67248663abe55ad9325d6&id=b6e5f3e9f0&e=75f1f16748)) 
+
+* Arizona (H B 2417): signatures; electronic transactions; blockchain technology - Signed into law April 3, 2017. ([Link to bill](http://digitalchamber.us8.list-manage2.com/track/click?u=a87f67248663abe55ad9325d6&id=9c9062a046&e=75f1f16748))
+
+## Digital Signatures, Contracts and Transactions
+
+### International Model Law
 
 * International Model Law on E-Commerce [http://www.uncca.org/working-groups/working-group-iv](http://www.uncca.org/working-groups/working-group-iv)
 
@@ -34,7 +46,7 @@ Thanks to [Anders Brownworth](https://github.com/anders94) for creating this [op
 
 * Working Group on Electronic Transferable Records: [http://www.uncitral.org/uncitral/en/commission/working_groups/4Electronic_Commerce.html](http://www.uncitral.org/uncitral/en/commission/working_groups/4Electronic_Commerce.html)
 
-## US Federal and Uniform State Law
+### US Federal and Uniform State Law
 
 The legal validity of Electronic Transferable Records was explicitly established in the US through UETA (as uniform state law) and ESIGN (federally), both of which (broadly) were implementations of the UNCITRAL Model Law on Electronic Commerce. 
 
@@ -42,7 +54,7 @@ The legal validity of Electronic Transferable Records was explicitly established
 
 * Uniform Electronic Transaction Act (UETA): [http://www.uniformlaws.org/Act.aspx?title=Electronic%20Transactions%20Act](http://www.uniformlaws.org/Act.aspx?title=Electronic%20Transactions%20Act)
 
-## Developing Practices and Procedures
+### Developing Practices and Procedures
 
 * Electronic Evidence (4th edition, Institute of Advanced Legal Studies for the SAS Humanities Digital Library, School of Advanced Study, University of London, 2017) [http://ials.sas.ac.uk/digital/humanities-digital-library/observing-law-ials-open-book-service-law/electronic-evidence](http://ials.sas.ac.uk/digital/humanities-digital-library/observing-law-ials-open-book-service-law/electronic-evidence)
 
@@ -55,21 +67,5 @@ The legal validity of Electronic Transferable Records was explicitly established
 * In the 1990's, the ABA [Digital Signature Guidelines](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjCn4G43YjUAhWI24MKHUrkBMMQFggmMAA&url=http%3A%2F%2Fapps.americanbar.org%2Fdch%2Fthedl.cfm%3Ffilename%3D%2FST230002%2Fotherlinks_files%2Fdsg.pdf&usg=AFQjCNEADZ1-y4H-hDwiWmoBTE0VyqrBWQ&sig2=STMdXIAbTBy1XKvod4bZQg) provided a conceptual framework for legally understanding and working with cryptographically based digital signatures.  This document provides an excellent overview of how hash digests and public-private key cryptography can be used to legally execute a digital signature, though some of the more speculative content about a possible role of "trusted third party" new models of business to provide "certification authority" functions did not pan out.
 
 * Modern Blockchain-Based Digital Signature Prototype: [Massachusetts Legal Hackers Mock Trial](https://www.meetup.com/Massachusetts-Legal-Hackers/events/239640448/)
-
-
-### What is the [legal definition of "blockchain"](http://web.mit.edu/blockchain)?**
-
-
-### State Legislation
-
-* Nevada (SB 398): establishes various provisions relating to the use of blockchain technology. ([Link to bill](http://digitalchamber.us8.list-manage2.com/track/click?u=a87f67248663abe55ad9325d6&id=b6e5f3e9f0&e=75f1f16748)) 
-* Arizona (H B 2417): signatures; electronic transactions; blockchain technology - Signed into law April 3, 2017. ([Link to bill](http://digitalchamber.us8.list-manage2.com/track/click?u=a87f67248663abe55ad9325d6&id=9c9062a046&e=75f1f16748))
-
-# Blockchain for Lawyers
-
-Popular articles breaking it down in a way relevant to lawyers and other legal professionals 
-
-* [Lawyers Get Ready, There’s a Blockchain Coming](http://www.lawpracticetoday.org/article/lawyers-blockchain)
-* [The Two Topics in Law and Blockchain](http://www.coindesk.com/the-two-topics-in-law-blockchain)
 
 
