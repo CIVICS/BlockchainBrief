@@ -33,6 +33,13 @@ Thanks to [Anders Brownworth](https://github.com/anders94) for creating this [op
 
 # Parking Lot
 
+## Blockchain for Lawyers
+
+* [Lawyers Get Ready, There’s a Blockchain Coming](http://www.lawpracticetoday.org/article/lawyers-blockchain)
+* [The Two Topics in Law and Blockchain](http://www.coindesk.com/the-two-topics-in-law-blockchain)
+
+## Misc
+
 [addresses - How to encrypt a message with the public-key of an Ethereum address - Ethereum Stack Exchange](http://ethereum.stackexchange.com/questions/3092/how-to-encrypt-a-message-with-the-public-key-of-an-ethereum-address)
 
 [mist - how to sign with the Ethereum private key and derive the the r, v, s it needs for verification - Ethereum Stack Exchange](http://ethereum.stackexchange.com/questions/3792/how-to-sign-with-the-ethereum-private-key-and-derive-the-the-r-v-s-it-needs-fo?noredirect=1&lq=1)
