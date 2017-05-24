@@ -13,8 +13,7 @@ Thanks to [Anders Brownworth](https://github.com/anders94) for creating this [op
 ### What are "[Tokens](https://anders.com/blockchain/tokens.html)"?
 ### What is "[Coinbase](https://anders.com/blockchain/coinbase.html)"?
 
-# Relevant Links
-
+# Blockchain for Lawyers
 
 **Popular media breaking it down in a way relevant to lawyers and other legal professionals:**
 
